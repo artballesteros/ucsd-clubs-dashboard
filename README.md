@@ -4,7 +4,7 @@ Submitted by: **Arturo Ballesteros-Ontiveros**
 
 This web app: **presents a dashboard of different tech related clubs at UCSD**
 
-Time spent: **2.5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
