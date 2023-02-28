@@ -22,9 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/YaexiHR.gif' title='Video Walkthrough' width='500px' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Kd8jXjH.gif' title='Video Walkthrough' width='500px' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
+5 FPS to fit within GitHub content size limit.
 
 ## Notes
 
