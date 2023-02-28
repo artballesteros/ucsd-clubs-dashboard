@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Dashboard*
+# Web Development Project 1 - *UCSD Tech Club Dashboard*
 
 Submitted by: **Arturo Ballesteros-Ontiveros**
 
@@ -18,26 +18,25 @@ The following **optional** features are implemented:
 - [x] Buttons or links to a related resources are on each card component
 - [x] The site is responsive for both desktop and mobile formats
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/YaexiHR.gif' title='Video Walkthrough' width='500px' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+1. Making the UCSD logo responsive to mobile platforms
+Solution: transcode the logo from a PNG to SVG format
+
+2. fitting all the cards on the page in a responsive way
+Solution: use flex box properties:
+  align-items: center;
+  flex-flow: row wrap;
 
 ## License
 
